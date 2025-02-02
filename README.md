@@ -7,7 +7,7 @@ This is a simple Dictionary App built using HTML, CSS, and JavaScript. Users can
 ## Features
 
 - **Search for Words**: Users can input a word to get its definition.
-- **API Integration**: Fetches data from [Free Dictionary API](https://api.dictionaryapi.dev/).
+- **API Integration**: Fetches data from [Free Dictionary API](https://dictionaryapi.dev/).
 - **Error Handling**: Displays a message if the word is not found.
 
 ## Technologies Used
